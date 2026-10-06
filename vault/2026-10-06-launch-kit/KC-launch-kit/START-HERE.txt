@@ -1,0 +1,23 @@
+KC LAUNCH KIT — OCTOBER 6, 2026
+
+START HERE
+Open KC-social-launch-plan.docx for the launch brief, setup steps, schedule, draft posts, product references and source links.
+
+CONTENTS
+Three existing product boards copied unchanged, plus separate caption files with Facebook text, Instagram text, alt text, product references and final asset instructions.
+
+STATUS
+Drafts prepared. Nothing has been published or scheduled. No account settings were changed.
+The social handles, final affiliate destinations and product approval still need confirmation.
+The PNGs retain the original review-gallery footers and are marked DRAFT in their filenames. Final footer wording is supplied in each caption file.
+All bracketed URL tokens must be replaced before use. The Amazon /dp/ URLs are references, not affiliate links.
+
+VERIFICATION
+The product catalog and source-document references came from the existing October 5 gallery.
+Amazon pages retrieved on October 6 matched the titles for JR.WHITE, Barbie Clara, Zefiro, VIVOHOME and Funeta. Retrieved pages were cached; this does not establish live stock, price, delivery, campaign status or exact image fidelity.
+Family Feud, Timetome, AIR U+, DIMJ and Huifany pages could not be fetched in this research pass; their references remain catalog-only.
+Amazon disclosure, link generation, website-list and tracking documentation were checked. Meta help pages were login/rate limited; the official Meta tutorial supports the general scheduling workflow. Confirm current controls in the intended accounts.
+The Firecrawl CLI could not reach its service; public research used the available web search instead. No private Facebook group content was accessed or reproduced.
+
+ACCOUNT INPUTS NEEDED
+Casey’s spare Instagram handle, correct Facebook Page, Amazon.com US account confirmation, generated Facebook and Instagram collection links, and Casey’s selection/accuracy review.

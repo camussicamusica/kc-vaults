@@ -1,0 +1,55 @@
+KC FAMILY FUN FINDS — FIRST DESIGN PILOT
+Created October 5, 2026
+
+Two private preview graphics, generated with the built-in image generation tool.
+A: kc-family-fun-collage-preview.png
+B: kc-family-fun-lifestyle-preview.png
+
+Both images are generated composites. A references an original frame but the generator re-rendered the face; it is not a pixel-preserved original-photo collage. B depicts an invented home setting and product arrangement. They are concept graphics, not evidence KC has used these products. Small packaging details and face likeness need final review. No publication, messaging, purchase, or campaign submission was performed. The storefront call to action is visual only, without an embedded affiliate URL.
+
+Identity references:
+Original video: 00000274-VIDEO-2026-10-04-18-46-54.mp4, frames at 2 and 17 seconds, from the supplied WhatsApp export.
+
+Product identity source:
+October 1 updated picks
+
+Product references verified against listing pages:
+Family Feud Deluxe Buzzer Edition: https://www.amazon.com/dp/B0GGV5TZD6
+Source asset: https://m.media-amazon.com/images/I/81wG9nAyamL._AC_SL1500_.jpg
+Timetome six-book writing set: https://www.amazon.com/dp/B0H2LQX7BK
+Source asset: https://m.media-amazon.com/images/I/81T-Zc63nqL._AC_SL1500_.jpg
+JR.WHITE 60 pens / 120 colors: https://www.amazon.com/dp/B0FGD7P7K9
+Source asset: https://m.media-amazon.com/images/I/81kmOqSDcVL._AC_SL1500_.jpg
+
+PROMPT A
+Use case: compositing / identity-preserve.
+Create a polished portrait 4:5 social shopping collage, a private first design preview for KC. The title is FAMILY FUN FINDS, with smaller handwritten-style KC's above. Editorial warm ivory paper background, ink dark olive/charcoal typography, very restrained dusty rose accent, airy tasteful lifestyle affiliate collage, legible clean hierarchy. Do not make this look like an ecommerce app.
+Image 1 is the EDIT TARGET photo of KC in a white blouse and taupe shorts. Preserve her actual photographed face, hairstyle, expression, skin texture, age, body proportions, jewelry, white blouse and pose, as closely as possible. Place the photograph unchanged within an attractive large straight rectangular editorial photo frame on the left of the composition. Retain the original interior background inside the photo, crop only as necessary to fit. Do not reconstruct her face or beautify her. Her face should be comfortably visible. Use the original photo as a pasted photo, not a reinterpretation. Image 2 is a supporting closer identity reference only; do not display it.
+Images 3, 4, 5 are the EXACT product asset references: Family Feud Deluxe Buzzer Edition; Timetome 6-book writing set; JR.WHITE dual-color acrylic marker 60-pen set. Arrange these three products in a clean curated layout beside the photo. Preserve supplied packaging, branding, proportions and visible product details accurately. For Family Feud use the box. For Timetome show the box and spiral book stack, not the demonstration hand. For JR.WHITE show the marker pack, omit the sample crafts surrounding it. No invented packaging or extra products, no prices.
+Text, rendered exactly and with generous spacing:
+"KC's"
+"FAMILY FUN FINDS"
+"Games, crafts & quiet-time picks"
+Product captions near their respective objects:
+"Family Feud" / "Deluxe Buzzer Edition"
+"Timetome" / "Reusable writing books"
+"JR.WHITE" / "60 pens · 120 colors"
+Tasteful footer band: "Explore my storefront →"
+Small readable footer: "DESIGN PREVIEW"
+All copy must fit without overlap. Do not imply KC has used or reviewed these products. No children, no additional people outside the existing printed packaging, no Amazon logo. Make it polished, warm and personal, not generic corporate. Return ONE finished collage only.
+
+PROMPT B
+Use case: identity-preserve / compositing.
+Create a polished portrait 4:5 social shopping lifestyle graphic, a private AI-assisted first design preview for KC.
+Image 1 is the main identity and body reference, image 2 is a closer reference of the SAME adult woman. Faithfully preserve KC's recognizable actual face: shape of face, eyes and spacing, nose, lips, smile, natural skin texture and age, blonde hair with darker roots and loose shoulder length waves. Preserve her lean natural proportions and white collared blouse. Do not make a generic influencer, change her age, give beauty-filter skin, exaggerate features or change ethnicity.
+Images 3, 4, 5 are exact product references: Family Feud Deluxe Buzzer Edition blue box, Timetome 6-book reusable writing set, JR.WHITE 60-pen/120-color marker pack. Preserve their branding, exact appearance and colors. Only show these products.
+Scene: a believable airy Pacific Northwest-style home dining nook, soft daylight, warm ivory walls and natural light wood. KC smiles naturally toward camera, shown waist-up behind a table, relaxed natural pose with hands resting separately from the products, NOT holding or demonstrating anything. Table presents the Family Feud box upright and Timetome books and JR.WHITE marker pack arranged tidily next to it. Clear realistic scale, all three visible, photo feels warm and casual, not glamorous stock imagery. Avoid other distracting objects. Accurate anatomy.
+Graphic composition: top cream margin for elegant charcoal serif headline, roomy photo below, bottom warm-ivory footer. Cohesive with an editorial shopping collage. Top text exactly:
+"KC's"
+"FAMILY FUN FINDS"
+"Games, crafts & quiet-time picks"
+Footer text exactly:
+"Explore my storefront →"
+Small but clear footer line: "AI-STYLED CONCEPT · DESIGN PREVIEW"
+No claims of personal testing, no testimonial, no performance demonstration, no children. No prices and no Amazon logo. All typography must be clean and readable, no overlaps, no extra slogans. Return ONE finished graphic only.
+

@@ -1,0 +1,172 @@
+[
+  {
+    "file": "01-family-feud.png",
+    "product": "Family Feud",
+    "outfit": "pink polo",
+    "composition": "Seated, holding the box with a broad smile.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000169-VIDEO-2026-09-29-21-27-52.mp4",
+    "reference_seconds": [
+      5,
+      32
+    ],
+    "product_url": "https://www.amazon.com/dp/B0GGV5TZD6",
+    "status": "AI-generated concept for review"
+  },
+  {
+    "file": "02-timetome-books.png",
+    "product": "Timetome writing books",
+    "outfit": "denim shirt",
+    "composition": "Looking toward the workbook in a relaxed seated pose.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000244-VIDEO-2026-10-04-18-31-31.mp4",
+    "reference_seconds": [
+      3,
+      8
+    ],
+    "product_url": "https://www.amazon.com/dp/B0H2LQX7BK",
+    "status": "AI-generated concept for review"
+  },
+  {
+    "file": "03-air-u-brush.png",
+    "product": "AIR U+ floor brush",
+    "outfit": "charcoal lounge set",
+    "composition": "Full-length standing portrait with the brush at rest.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000245-VIDEO-2026-10-04-18-31-49.mp4",
+    "reference_seconds": [
+      17,
+      29
+    ],
+    "product_url": "https://www.amazon.com/dp/B0H4R3KP4Y",
+    "status": "AI-generated concept for review"
+  },
+  {
+    "file": "04-dimj-organizers.png",
+    "product": "DIMJ drawer organizers",
+    "outfit": "cream cable sweater",
+    "composition": "Looking down at an organizer, photographed close to the dresser.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000252-VIDEO-2026-10-04-18-33-11.mp4",
+    "reference_seconds": [
+      6,
+      18
+    ],
+    "product_url": "https://www.amazon.com/dp/B0F2238Q26",
+    "status": "AI-generated concept for review"
+  },
+  {
+    "file": "05-huifany-bags.png",
+    "product": "Huifany drawstring bags",
+    "outfit": "striped hoodie",
+    "composition": "Presenting a roll and the pack, with her gaze toward the product.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000253-VIDEO-2026-10-04-18-33-14.mp4",
+    "reference_seconds": [
+      3,
+      17
+    ],
+    "product_url": "https://www.amazon.com/dp/B0GYWDKK58",
+    "status": "AI-generated concept for review"
+  },
+  {
+    "file": "06-vivohome-seats.png",
+    "product": "VIVOHOME stadium seats",
+    "outfit": "brown Game Day top",
+    "composition": "Seated outdoors on bleachers beside the second stadium seat.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000267-VIDEO-2026-10-04-18-36-41.mp4",
+    "reference_seconds": [
+      3,
+      9
+    ],
+    "product_url": "https://www.amazon.com/dp/B0G3SWVSW5",
+    "status": "AI-generated concept for review"
+  },
+  {
+    "file": "07-jr-white-markers.png",
+    "product": "JR.WHITE acrylic markers",
+    "outfit": "forest-green sweatshirt",
+    "composition": "Close portrait with one marker raised beside her face.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000185-VIDEO-2026-09-29-22-35-41.mp4",
+    "reference_seconds": [
+      3,
+      19
+    ],
+    "product_url": "https://www.amazon.com/dp/B0FGD7P7K9",
+    "status": "AI-generated concept for review"
+  },
+  {
+    "file": "08-barbie-clara.png",
+    "product": "Barbie Clara doll",
+    "outfit": "burgundy pullover",
+    "composition": "Side-angle portrait holding and looking toward the doll.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000186-VIDEO-2026-09-29-22-35-45.mp4",
+    "reference_seconds": [
+      3,
+      8
+    ],
+    "product_url": "https://www.amazon.com/dp/B0G441JJWG",
+    "status": "AI-generated concept for review"
+  },
+  {
+    "file": "09-zefiro-vacuum.png",
+    "product": "Zefiro cordless vacuum",
+    "outfit": "sage knit set",
+    "composition": "Full-length standing portrait with the vacuum at rest.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000251-VIDEO-2026-10-04-18-33-07.mp4",
+    "reference_seconds": [
+      16,
+      25
+    ],
+    "product_url": "https://www.amazon.com/dp/B0H7T2R9KN",
+    "status": "AI-generated concept for review"
+  },
+  {
+    "file": "10-funeta-pumpkins.png",
+    "product": "Funeta pumpkin favors",
+    "outfit": "red sweater",
+    "composition": "Close-up with a playful expression and a pumpkin favor.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "source_video": "00000243-VIDEO-2026-10-04-18-31-19.mp4",
+    "reference_seconds": [
+      3,
+      8
+    ],
+    "product_url": "https://www.amazon.com/dp/B0F4JPWZZR",
+    "status": "AI-generated concept for review"
+  }
+]

@@ -1,0 +1,196 @@
+{
+  "coverage": {
+    "checked_on": "2026-10-01",
+    "group_url": "https://www.facebook.com/groups/1067432590956892",
+    "group_title": "Viral Vue for Amazon Influencers & Associates",
+    "access": "Private, joined group; authorized existing Chrome session",
+    "search_queries": [
+      "viral score",
+      "creator connections",
+      "budget",
+      "calculator",
+      "carousel",
+      "samples",
+      "revenue",
+      "break even",
+      "total influencer",
+      "30 messages"
+    ],
+    "method": "Screened the initially loaded results for each query, expanded selected relevant comments, scrolled the break-even results, and opened the original score and samples threads. Read supplementary public vendor documentation and the Amazon policy in Chrome.",
+    "selected_threads": 11,
+    "full_group_archive": false,
+    "limitations": [
+      "Search ranking was Facebook default; Most recent and date filters were not applied.",
+      "Search results and comments are not exhaustive; only selected text was expanded.",
+      "No full historical pagination, Featured archive, video/audio transcription, or comprehensive image OCR.",
+      "Dates below are observed comment timestamps, not asserted original-post dates. Display timezone was not established.",
+      "No validated community calculator benchmark or universal earnings/payback forecast found.",
+      "Private posts were not sent to Firecrawl or another external scraping service. Only topic summaries and necessary source references are saved."
+    ],
+    "credits_spent": 0,
+    "paid_operations": 0,
+    "outreach_actions": 0,
+    "campaign_acceptances": 0,
+    "primary_verification_limits": "Amazon guide PDF could not be fully retrieved by the web tool (size limit); an indexed excerpt mentioned onsite/offsite bonus reporting and budget exhaustion. That excerpt alone does not resolve campaign-specific content eligibility. The Amazon policy was successfully read in Chrome after web retrieval failed."
+  },
+  "threads": [
+    {
+      "id": "score",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1824635781903232/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1824635781903232/?comment_id=1824690538564423",
+      "observed_comment_timestamp": "2026-10-01 11:39 AM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Viral Score revision",
+      "observation": "Trevin Peterson says the equation is being improved and that he currently evaluates sales, competition and Creator Connections. The complete comment was expanded and then read in its own thread.",
+      "evidence_strength": "Direct community statement. The supplied screenshot identifies him as Admin; the live text extraction did not display that badge. This is not an Amazon policy announcement.",
+      "project_implication": "Keep score visible without an automatic score cutoff; do not remove other requirements."
+    },
+    {
+      "id": "priorities",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1811145776585566/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1811145776585566/?comment_id=1811301239903353",
+      "observed_comment_timestamp": "2026-09-16 8:11 PM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Sales versus score and campaign timing",
+      "observation": "Visible replies favor strong sales with CC as an advantage; another reply prioritizes campaigns ending soon.",
+      "evidence_strength": "Member advice, not measured comparative performance.",
+      "project_implication": "Use demand and a realistic filming window together. An imminent expiry can also make a campaign impractical."
+    },
+    {
+      "id": "full",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1822688998764577/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1822688998764577/?comment_id=1822724258761051",
+      "observed_comment_timestamp": "2026-09-29 11:43 AM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Campaigns filling up",
+      "observation": "A member relays a brand message about campaigns filling with creators who do not upload videos. Replies dispute the assumption that campaign participants must all produce onsite videos.",
+      "evidence_strength": "Secondhand brand report and member disagreement. The brand message was only partially visible; no capacity limit or cause was independently established.",
+      "project_implication": "Check participation availability directly. Do not equate campaign participants with visible influencer videos."
+    },
+    {
+      "id": "budget",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1820070325693111/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1820070325693111/?comment_id=1820080302358780",
+      "observed_comment_timestamp": "2026-09-26 5:22 PM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Budget falls despite few visible videos",
+      "observation": "A member asks why campaign budget decreased by more than their own payout despite apparently being the only video creator. Replies point to offsite affiliates as another source of qualifying activity.",
+      "evidence_strength": "Plausible community explanation, not an audit of that campaign.",
+      "project_implication": "Treat remaining budget as shared campaign capacity, not money reserved for KC. Low onsite competition does not establish low competition for the budget."
+    },
+    {
+      "id": "samples-full",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1821103292256481/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1821103292256481/?comment_id=1821137805586363",
+      "observed_comment_timestamp": "2026-09-27 7:52 PM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Sample outreach when campaigns are full",
+      "observation": "A member reports sending sample requests while campaigns are already fully claimed. Trevin suggests products with potential even without CC, with a later campaign providing additional upside; his full comment was expanded.",
+      "evidence_strength": "Community strategy. It does not override Sofia’s requirement for a current applicable campaign.",
+      "project_implication": "Do not promote full campaigns as available or count a possible future campaign in an earnings scenario."
+    },
+    {
+      "id": "sample-policy",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1823120665388077/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1823120665388077/?comment_id=1823164335383710",
+      "observed_comment_timestamp": "2026-09-29 11:00 PM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Samples field versus private arrangements",
+      "observation": "A policy-screenshot discussion contains speculation about whether Samples: No means arrangements are tracked. The thread was opened and additional visible comments read. The screenshot itself was not transcribed; the live Amazon policy was read separately.",
+      "evidence_strength": "Member speculation about tracking and tax handling is not verified policy.",
+      "project_implication": "Record Samples: No and any conflicting brief wording separately. Do not infer an offer, exemption or entitlement from either field."
+    },
+    {
+      "id": "carousel",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1820079455692198/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1820079455692198/?comment_id=1820316839001793",
+      "observed_comment_timestamp": "2026-09-27 12:16 AM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Merchant videos with zero influencer videos",
+      "observation": "A member asks whether merchant-only upper and lower video sections indicate an opportunity or a restriction. Trevin states that a seller video can enable an upper carousel.",
+      "evidence_strength": "Community discussion; Viral Vue’s own documentation confirms that placement also depends on Amazon selection and brand permissions.",
+      "project_implication": "Zero influencer videos is not a placement guarantee. Record merchant and influencer counts separately."
+    },
+    {
+      "id": "count",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1781979076168903/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1781979076168903/?comment_id=1781994499500694",
+      "observed_comment_timestamp": "2026-08-13 7:13 PM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Conflicting total-video counts",
+      "observation": "Members report large differences between summary counts and counts revealed by opening the influencer-video list. One expanded reply explicitly describes the discrepancy.",
+      "evidence_strength": "Multiple anecdotes; the cause, scope and present fix status are unknown.",
+      "project_implication": "Wait for fresh metrics, open the total-video list when counts conflict, preserve both observations and hold unresolved cases."
+    },
+    {
+      "id": "high-competition",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1819099352456875/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1819099352456875/?comment_id=1819148209118656",
+      "observed_comment_timestamp": "2026-09-25 6:23 PM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "High competition can still yield temporary placement",
+      "observation": "A member reports top-carousel placement despite a very high total-video count. Replies distinguish filming an already-owned product from buying a new one for this purpose.",
+      "evidence_strength": "Single self-reported outcome, not a success rate or reason to relax KC’s cap.",
+      "project_implication": "Keep the agreed total-video cap for purchases. Already-owned items can be a separate future experiment if requested."
+    },
+    {
+      "id": "buying",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1800049101028567/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1800049101028567/?comment_id=1800129757687168",
+      "observed_comment_timestamp": "2026-09-03 11:37 PM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Buying products and recovering costs",
+      "observation": "A beginner asks how many products to buy and how long payback takes. An expanded reply favors researching items the household already needs before buying speculative inventory.",
+      "evidence_strength": "Member strategy. No validated universal payback period was found.",
+      "project_implication": "Prioritize practical household fit; keep purchase cost and uncertain future commissions separate."
+    },
+    {
+      "id": "messages",
+      "post_url": "https://www.facebook.com/groups/1067432590956892/posts/1820241552342655/",
+      "comment_url": "https://www.facebook.com/groups/1067432590956892/posts/1820241552342655/?comment_id=1820312949002182",
+      "observed_comment_timestamp": "2026-09-27 12:10 AM",
+      "timestamp_timezone": "Facebook displayed time; timezone not established",
+      "title": "Message volumes and automation",
+      "observation": "A member describes choosing to send 30 messages and mentions others sending 100; Trevin responds positively about Campaign Findr.",
+      "evidence_strength": "Usage anecdote, not documentation of Amazon limits or reset times.",
+      "project_implication": "KC’s 30-per-day and 10 p.m. reset remain unverified account context. Confirm in the account before planning outreach; no messages were sent."
+    }
+  ],
+  "primary_sources": [
+    {
+      "title": "Viral Score",
+      "url": "https://support.viralvue.com/hc/en-us/articles/32182807027603-Viral-Score",
+      "finding": "Viral Vue describes the score as a composite indicator and explicitly cautions that low scores do not always rule out an opportunity and high scores do not guarantee success. The page does not independently establish the October 1 equation-revision timeline."
+    },
+    {
+      "title": "30-Day Sales – Amazon",
+      "url": "https://support.viralvue.com/hc/en-us/articles/32182908245651-30-Day-Sales-Amazon",
+      "finding": "Units sold and revenue are different fields. Viral Vue describes revenue as the past 30 days of sales multiplied by current product price. It is product-level demand information, not the creator’s commission."
+    },
+    {
+      "title": "Total Influencer Videos",
+      "url": "https://support.viralvue.com/hc/en-us/articles/32182895242515-Total-Influencer-Videos",
+      "finding": "The total includes videos linked to the product that are not currently displayed in either carousel. Opening the count reveals the linked videos. A visible top-carousel count is therefore not a substitute for total competition."
+    },
+    {
+      "title": "Top Carousel",
+      "url": "https://support.viralvue.com/hc/en-us/articles/32182867528211-Top-Carousel",
+      "finding": "Merchant videos enable the top carousel, but influencer placement depends on Amazon selection, availability and brand permissions. Placement does not guarantee sales."
+    },
+    {
+      "title": "Break Even Calculator",
+      "url": "https://support.viralvue.com/hc/en-us/articles/53274699859603-Break-Even-Calculator",
+      "finding": "Top Carousel mode assumes top placement. Standard mode factors in total influencer-video competition. Inputs include units sold, price, commission, CC bonus, campaign days and content lead time. The documented default attribution assumption is one sale per 100 units, adjustable to account performance. These are scenario assumptions, not KC’s measured conversion rate or a guaranteed payback date. The page’s FAQ explanation of attribution appears mismatched with its input instructions; the explicit input description is used here."
+    },
+    {
+      "title": "Amazon onsite earnings",
+      "url": "https://affiliate-program.amazon.com/help/node/topic/GV7VUCCSS8MQFSQT",
+      "finding": "Amazon may select eligible storefront content for onsite display. Onsite earnings depend on qualifying customer activity; simply uploading content does not establish placement or earnings."
+    },
+    {
+      "title": "Creator Connections Associates Policy",
+      "url": "https://affiliate-program.amazon.com/p/connect/help/agreement",
+      "finding": "Read in authorized Chrome; displayed update February 2, 2026. Section 1.6 contemplates program samples and requires genuine, independent content based on actual experience. Section 2.1 ties compensation to the particular request, specified products, dates and evidence containing a related Special Link. Its wording should not be replaced by a blanket forum assurance that any onsite video qualifies. Section 3 separately describes Sponsored Products for Creators and CPC earnings; do not confuse that mechanism with an Affiliate+ percentage bonus."
+    }
+  ]
+}

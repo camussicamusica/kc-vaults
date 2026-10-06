@@ -1,0 +1,844 @@
+{
+  "email": "",
+  "drive_folder": "https://drive.google.com/drive/folders/1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp",
+  "docs": [
+    {
+      "id": "sep29",
+      "title": "KC Product Shortlist",
+      "date": "September 29",
+      "url": ""
+    },
+    {
+      "id": "sep30",
+      "title": "KC Creator Connections Shortlist September 30 2026",
+      "date": "September 30",
+      "url": ""
+    },
+    {
+      "id": "oct1",
+      "title": "KC Campaign Shortlist - October 1, 2026 - 10 Options for Review",
+      "date": "October 1",
+      "url": ""
+    }
+  ],
+  "products": [
+    {
+      "asin": "B0BYNLPS6D",
+      "name": "Steel spider strainer",
+      "url": "https://www.amazon.com/dp/B0BYNLPS6D",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B0F89SC122",
+      "name": "Slim bathroom trash can",
+      "url": "https://www.amazon.com/dp/B0F89SC122",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B0GX165S16",
+      "name": "LOVEVOOK work and lunch bag",
+      "url": "https://www.amazon.com/dp/B0GX165S16",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B0F2MWKNQB",
+      "name": "DIGOBAY rolling school backpack",
+      "url": "https://www.amazon.com/dp/B0F2MWKNQB",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B0DSVV5PNH",
+      "name": "Fire truck toy set",
+      "url": "https://www.amazon.com/dp/B0DSVV5PNH",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B0FLHS4N72",
+      "name": "HiWEEGO robot building set",
+      "url": "https://www.amazon.com/dp/B0FLHS4N72",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B085JCNGC7",
+      "name": "Bayer doll pram mega set",
+      "url": "https://www.amazon.com/dp/B085JCNGC7",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B0B8YT3X3Z",
+      "name": "Warm white net lights",
+      "url": "https://www.amazon.com/dp/B0B8YT3X3Z",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B0FH2GQGSF",
+      "name": "FORUP tree topper holder",
+      "url": "https://www.amazon.com/dp/B0FH2GQGSF",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B0D8HNRVYP",
+      "name": "Three foot lighted Christmas tree",
+      "url": "https://www.amazon.com/dp/B0D8HNRVYP",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier recommendation",
+      "images": []
+    },
+    {
+      "asin": "B0FFBB24VV",
+      "name": "100 white square party plates",
+      "url": "https://www.amazon.com/dp/B0FFBB24VV",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0CQW76XDW",
+      "name": "Sekcen downspout splash blocks",
+      "url": "https://www.amazon.com/dp/B0CQW76XDW",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0CMB352VP",
+      "name": "Backpack rolling attachment",
+      "url": "https://www.amazon.com/dp/B0CMB352VP",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B09KYFQR4F",
+      "name": "DUKAP 28-inch pink suitcase",
+      "url": "https://www.amazon.com/dp/B09KYFQR4F",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0BCQQS9Q4",
+      "name": "NERF football target net",
+      "url": "https://www.amazon.com/dp/B0BCQQS9Q4",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0BLNSY26M",
+      "name": "100 magnetic Christmas light clips",
+      "url": "https://www.amazon.com/dp/B0BLNSY26M",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0C6KQLV2Y",
+      "name": "94 champagne-gold tree ornaments",
+      "url": "https://www.amazon.com/dp/B0C6KQLV2Y",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0FNMZ1QWP",
+      "name": "6-foot Halloween inflatable",
+      "url": "https://www.amazon.com/dp/B0FNMZ1QWP",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0CBRLSP4T",
+      "name": "4-foot Christmas yard signs",
+      "url": "https://www.amazon.com/dp/B0CBRLSP4T",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0FG2CGH54",
+      "name": "16-piece Christmas tree fence",
+      "url": "https://www.amazon.com/dp/B0FG2CGH54",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0988BQ7VQ",
+      "name": "Hallmark money holder cards",
+      "url": "https://www.amazon.com/dp/B0988BQ7VQ",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0FBFLZ3HS",
+      "name": "9-foot cedar garland",
+      "url": "https://www.amazon.com/dp/B0FBFLZ3HS",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0D8VXYFR7",
+      "name": "328-foot multicolor lights",
+      "url": "https://www.amazon.com/dp/B0D8VXYFR7",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0FC2DD4P5",
+      "name": "16 candy-cane ornaments",
+      "url": "https://www.amazon.com/dp/B0FC2DD4P5",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0B8G8FT7M",
+      "name": "4-foot lighted Christmas tree",
+      "url": "https://www.amazon.com/dp/B0B8G8FT7M",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0C9Z2K8K2",
+      "name": "Lulu Home lighted snowmen",
+      "url": "https://www.amazon.com/dp/B0C9Z2K8K2",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0D8T2LBPG",
+      "name": "8 mini cabinet wreaths",
+      "url": "https://www.amazon.com/dp/B0D8T2LBPG",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B09C8Y8DFF",
+      "name": "4-inch green elf doll",
+      "url": "https://www.amazon.com/dp/B09C8Y8DFF",
+      "sources": [
+        "sep29"
+      ],
+      "status": "Earlier alternative",
+      "images": []
+    },
+    {
+      "asin": "B0F4JPWZZR",
+      "name": "Funeta Halloween pumpkin Pop Its, 30-pack",
+      "url": "https://www.amazon.com/dp/B0F4JPWZZR",
+      "sources": [
+        "sep30",
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "10-funeta-pumpkins"
+      ]
+    },
+    {
+      "asin": "B09K42CV2C",
+      "name": "SHEJIZE 9-piece Santa costume",
+      "url": "https://www.amazon.com/dp/B09K42CV2C",
+      "sources": [
+        "sep30"
+      ],
+      "status": "Removed from latest list",
+      "images": [],
+      "reason": "Adult clothing excluded in the October 1 revision."
+    },
+    {
+      "asin": "B0DMRV2YGT",
+      "name": "BOOJO 7-pack men's athletic shorts",
+      "url": "https://www.amazon.com/dp/B0DMRV2YGT",
+      "sources": [
+        "sep30"
+      ],
+      "status": "Removed from latest list",
+      "images": [],
+      "reason": "Men\u2019s clothing excluded in the October 1 revision."
+    },
+    {
+      "asin": "B0FGD7P7K9",
+      "name": "JR.WHITE acrylic markers, 120 colors in 60 pens",
+      "url": "https://www.amazon.com/dp/B0FGD7P7K9",
+      "sources": [
+        "sep30",
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "07-jr-white-markers"
+      ]
+    },
+    {
+      "asin": "B0H4R3KP4Y",
+      "name": "AIR U+ 4-in-1 small floor brush, gray",
+      "url": "https://www.amazon.com/dp/B0H4R3KP4Y",
+      "sources": [
+        "sep30",
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "03-air-u-brush"
+      ]
+    },
+    {
+      "asin": "B0GGV5TZD6",
+      "name": "Family Feud Deluxe Buzzer Edition",
+      "url": "https://www.amazon.com/dp/B0GGV5TZD6",
+      "sources": [
+        "sep30",
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "01-family-feud"
+      ]
+    },
+    {
+      "asin": "B0H9P8BJWP",
+      "name": "Roboseal electric mason jar vacuum sealer, 50-lid kit",
+      "url": "https://www.amazon.com/dp/B0H9P8BJWP",
+      "sources": [
+        "sep30"
+      ],
+      "status": "Removed from latest list",
+      "images": [],
+      "reason": "Removed October 1: campaign recorded as full."
+    },
+    {
+      "asin": "B0GLG61DJ4",
+      "name": "Lollicy 3-pack Pullman loaf pans with lids, rose gold",
+      "url": "https://www.amazon.com/dp/B0GLG61DJ4",
+      "sources": [
+        "sep30"
+      ],
+      "status": "Removed from latest list",
+      "images": [],
+      "reason": "Removed October 1: campaign recorded as full."
+    },
+    {
+      "asin": "B0GYWDKK58",
+      "name": "Huifany 4-gallon drawstring bags, white unscented 200-count",
+      "url": "https://www.amazon.com/dp/B0GYWDKK58",
+      "sources": [
+        "sep30",
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "05-huifany-bags"
+      ]
+    },
+    {
+      "asin": "B0G441JJWG",
+      "name": "Barbie in the Nutcracker Clara doll",
+      "url": "https://www.amazon.com/dp/B0G441JJWG",
+      "sources": [
+        "sep30",
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "08-barbie-clara"
+      ]
+    },
+    {
+      "asin": "B0H2LQX7BK",
+      "name": "Timetome reusable writing books, 6-pack",
+      "url": "https://www.amazon.com/dp/B0H2LQX7BK",
+      "sources": [
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "02-timetome-books"
+      ]
+    },
+    {
+      "asin": "B0F2238Q26",
+      "name": "DIMJ fabric drawer organizers, beige 20-pack",
+      "url": "https://www.amazon.com/dp/B0F2238Q26",
+      "sources": [
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "04-dimj-organizers"
+      ]
+    },
+    {
+      "asin": "B0G3SWVSW5",
+      "name": "VIVOHOME ultra-compact stadium seats, black 2-pack",
+      "url": "https://www.amazon.com/dp/B0G3SWVSW5",
+      "sources": [
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "06-vivohome-seats"
+      ]
+    },
+    {
+      "asin": "B0H7T2R9KN",
+      "name": "Zefiro 580W cordless vacuum, green",
+      "url": "https://www.amazon.com/dp/B0H7T2R9KN",
+      "sources": [
+        "oct1"
+      ],
+      "status": "Latest pick",
+      "images": [
+        "09-zefiro-vacuum"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "01-family-feud",
+      "title": "Family Feud Deluxe Buzzer Edition",
+      "asins": [
+        "B0GGV5TZD6"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/01-family-feud.png",
+      "description": "Seated, holding the box with a broad smile. Outfit: pink polo.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1mkfLjghjnvwoW65YLU0AuJs7PaCQIY4a/view?usp=drivesdk"
+    },
+    {
+      "id": "02-timetome-books",
+      "title": "Timetome reusable writing books, 6-pack",
+      "asins": [
+        "B0H2LQX7BK"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/02-timetome-books.png",
+      "description": "Looking toward the workbook in a relaxed seated pose. Outfit: denim shirt.",
+      "sources": [
+        "oct1"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1X1pQuC0JhZJgaCxoJbRCDi90nUzjQBFA/view?usp=drivesdk"
+    },
+    {
+      "id": "03-air-u-brush",
+      "title": "AIR U+ 4-in-1 small floor brush, gray",
+      "asins": [
+        "B0H4R3KP4Y"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/03-air-u-brush.png",
+      "description": "Full-length standing portrait with the brush at rest. Outfit: charcoal lounge set.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1YwPfk0gpR2mfgmYEbkWyuSqrxdepLAk8/view?usp=drivesdk"
+    },
+    {
+      "id": "04-dimj-organizers",
+      "title": "DIMJ fabric drawer organizers, beige 20-pack",
+      "asins": [
+        "B0F2238Q26"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/04-dimj-organizers.png",
+      "description": "Looking down at an organizer, photographed close to the dresser. Outfit: cream cable sweater.",
+      "sources": [
+        "oct1"
+      ],
+      "drive_url": "https://drive.google.com/file/d/18PtQ5dl669kQP7RQbOEzu9Eblb3BSin8/view?usp=drivesdk"
+    },
+    {
+      "id": "05-huifany-bags",
+      "title": "Huifany 4-gallon drawstring bags, white unscented 200-count",
+      "asins": [
+        "B0GYWDKK58"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/05-huifany-bags.png",
+      "description": "Presenting a roll and the pack, with her gaze toward the product. Outfit: striped hoodie.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1da4OoLtOpk2qT_VqRpJsEeg5_DsIuhAj/view?usp=drivesdk"
+    },
+    {
+      "id": "06-vivohome-seats",
+      "title": "VIVOHOME ultra-compact stadium seats, black 2-pack",
+      "asins": [
+        "B0G3SWVSW5"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/06-vivohome-seats.png",
+      "description": "Seated outdoors on bleachers beside the second stadium seat. Outfit: brown Game Day top.",
+      "sources": [
+        "oct1"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1CXOmakmBeRKIgcgzARYvFaPWVSxhiu0Z/view?usp=drivesdk"
+    },
+    {
+      "id": "07-jr-white-markers",
+      "title": "JR.WHITE acrylic markers, 120 colors in 60 pens",
+      "asins": [
+        "B0FGD7P7K9"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/07-jr-white-markers.png",
+      "description": "Close portrait with one marker raised beside her face. Outfit: forest-green sweatshirt.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1DieYqd20jL42OCPDphqiHL_ovyD4AwEc/view?usp=drivesdk"
+    },
+    {
+      "id": "08-barbie-clara",
+      "title": "Barbie in the Nutcracker Clara doll",
+      "asins": [
+        "B0G441JJWG"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/08-barbie-clara.png",
+      "description": "Side-angle portrait holding and looking toward the doll. Outfit: burgundy pullover.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/10J2uBLBkXFd_xkQjI4XyRNTekD_uVIeJ/view?usp=drivesdk"
+    },
+    {
+      "id": "09-zefiro-vacuum",
+      "title": "Zefiro 580W cordless vacuum, green",
+      "asins": [
+        "B0H7T2R9KN"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/09-zefiro-vacuum.png",
+      "description": "Full-length standing portrait with the vacuum at rest. Outfit: sage knit set.",
+      "sources": [
+        "oct1"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1G-ulyZMVjpcOir9xG8Zl-BgneMc00WuG/view?usp=drivesdk"
+    },
+    {
+      "id": "10-funeta-pumpkins",
+      "title": "Funeta Halloween pumpkin Pop Its, 30-pack",
+      "asins": [
+        "B0F4JPWZZR"
+      ],
+      "kind": "portrait",
+      "path": "kc-varied-assets/10-funeta-pumpkins.png",
+      "description": "Close-up with a playful expression and a pumpkin favor. Outfit: red sweater.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1vLNqazYQxk2pvL41_aOLyohF-ZnXVsar/view?usp=drivesdk"
+    },
+    {
+      "id": "template-01-family-feud",
+      "title": "Family Feud Deluxe Buzzer Edition",
+      "asins": [
+        "B0GGV5TZD6"
+      ],
+      "kind": "template",
+      "path": "kc-product-collection/01-family-feud.png",
+      "description": "Saved original layout. Available to reuse with a different KC portrait.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1L21zgLSfu-uiwv2RpY9iOgq3ecS1RohE/view?usp=drivesdk"
+    },
+    {
+      "id": "template-02-timetome-books",
+      "title": "Timetome reusable writing books, 6-pack",
+      "asins": [
+        "B0H2LQX7BK"
+      ],
+      "kind": "template",
+      "path": "kc-product-collection/02-timetome-books.png",
+      "description": "Saved original layout. Available to reuse with a different KC portrait.",
+      "sources": [
+        "oct1"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1YzBSmEIRxmUXB5fAo15j0PpVuCjcTNYp/view?usp=drivesdk"
+    },
+    {
+      "id": "template-03-air-u-brush",
+      "title": "AIR U+ 4-in-1 small floor brush, gray",
+      "asins": [
+        "B0H4R3KP4Y"
+      ],
+      "kind": "template",
+      "path": "kc-product-collection/03-air-u-brush.png",
+      "description": "Saved original layout. Available to reuse with a different KC portrait.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1rax30eHiqTTicK5iS7redo6wHy04pavP/view?usp=drivesdk"
+    },
+    {
+      "id": "template-04-dimj-organizers",
+      "title": "DIMJ fabric drawer organizers, beige 20-pack",
+      "asins": [
+        "B0F2238Q26"
+      ],
+      "kind": "template",
+      "path": "kc-product-collection/04-dimj-organizers.png",
+      "description": "Saved original layout. Available to reuse with a different KC portrait.",
+      "sources": [
+        "oct1"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1IcCjbu8H7Ev0Ch0wYo_V2zp-Xs1mIjiT/view?usp=drivesdk"
+    },
+    {
+      "id": "template-05-huifany-bags",
+      "title": "Huifany 4-gallon drawstring bags, white unscented 200-count",
+      "asins": [
+        "B0GYWDKK58"
+      ],
+      "kind": "template",
+      "path": "kc-product-collection/05-huifany-bags.png",
+      "description": "Saved original layout. Available to reuse with a different KC portrait.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1WCDUbDbac8s3y-YQg9CJYOubDXMTrJbM/view?usp=drivesdk"
+    },
+    {
+      "id": "template-collage",
+      "title": "Family Fun Finds \u00b7 collage",
+      "asins": [
+        "B0GGV5TZD6",
+        "B0H2LQX7BK",
+        "B0FGD7P7K9"
+      ],
+      "kind": "template",
+      "path": "kc-family-fun-collage-preview.png",
+      "description": "Saved original three-product collage layout.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1lOUR6MrPmsjLMEuYXZDjV9LMVYQDvt8i/view?usp=drivesdk"
+    },
+    {
+      "id": "template-lifestyle",
+      "title": "Family Fun Finds \u00b7 lifestyle",
+      "asins": [
+        "B0GGV5TZD6",
+        "B0H2LQX7BK",
+        "B0FGD7P7K9"
+      ],
+      "kind": "template",
+      "path": "kc-family-fun-lifestyle-preview.png",
+      "description": "Saved original three-product lifestyle layout.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1BhnLq5LumMg_D44lHHlR6uqzlNAY83TU/view?usp=drivesdk"
+    },
+    {
+      "id": "board-family-editorial",
+      "title": "Play, Make & Imagine",
+      "asins": [
+        "B0GGV5TZD6",
+        "B0H2LQX7BK",
+        "B0FGD7P7K9",
+        "B0G441JJWG"
+      ],
+      "kind": "board",
+      "path": "kc-product-boards/board-family-editorial.png",
+      "description": "Product-only design \u00b7 category-specific editorial style.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/19NbWbqL-oSat7r-X81hgg48UukXd3F16/view?usp=drivesdk"
+    },
+    {
+      "id": "board-home-editorial",
+      "title": "The Home Reset",
+      "asins": [
+        "B0H4R3KP4Y",
+        "B0F2238Q26",
+        "B0GYWDKK58",
+        "B0H7T2R9KN"
+      ],
+      "kind": "board",
+      "path": "kc-product-boards/board-home-editorial.png",
+      "description": "Product-only design \u00b7 category-specific editorial style.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1O-dczGXL0cQ3hgPg8WEAO9JDgM2Eybwk/view?usp=drivesdk"
+    },
+    {
+      "id": "board-family",
+      "title": "Family Fun Finds",
+      "asins": [
+        "B0GGV5TZD6",
+        "B0H2LQX7BK",
+        "B0FGD7P7K9",
+        "B0G441JJWG"
+      ],
+      "kind": "board",
+      "path": "kc-product-boards/board-family.png",
+      "description": "Product-only design \u00b7 soft collage style.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1zaxPTlv1EOE7i9vn_6t8zPE-DYMBohwm/view?usp=drivesdk"
+    },
+    {
+      "id": "board-home",
+      "title": "Everyday Home Finds",
+      "asins": [
+        "B0H4R3KP4Y",
+        "B0F2238Q26",
+        "B0GYWDKK58",
+        "B0H7T2R9KN"
+      ],
+      "kind": "board",
+      "path": "kc-product-boards/board-home.png",
+      "description": "Product-only design \u00b7 soft collage style.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/16H8_ckKnY5XUd7yMvEGdbzsT83_Ogdmv/view?usp=drivesdk"
+    },
+    {
+      "id": "board-fall",
+      "title": "Fall Weekend Finds",
+      "asins": [
+        "B0G3SWVSW5",
+        "B0F4JPWZZR",
+        "B0GGV5TZD6"
+      ],
+      "kind": "board",
+      "path": "kc-product-boards/board-fall.png",
+      "description": "Product-only design \u00b7 soft collage style.",
+      "sources": [
+        "oct1",
+        "sep30"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1V8AluBo2VbdDSML8LGxzEX5HHo2bUR_o/view?usp=drivesdk"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video-family",
+      "title": "Family Fun Finds",
+      "path": "kc-video-previews/01-family-fun.mp4",
+      "asins": [
+        "B0GGV5TZD6",
+        "B0H2LQX7BK",
+        "B0FGD7P7K9"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1H-43LW1sxOG60AMkNYk7VKDEwq_vkb10/view?usp=drivesdk"
+    },
+    {
+      "id": "video-fall",
+      "title": "Fall Finds",
+      "path": "kc-video-previews/02-fall-finds.mp4",
+      "asins": [
+        "B0G3SWVSW5",
+        "B0F2238Q26",
+        "B0F4JPWZZR"
+      ],
+      "drive_url": "https://drive.google.com/file/d/1OlH5uztWjJsQxzk3-lcBHnA27xLhfOEK/view?usp=drivesdk"
+    }
+  ]
+}

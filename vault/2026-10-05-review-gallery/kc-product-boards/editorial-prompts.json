@@ -1,0 +1,55 @@
+{
+  "mode": "Built-in image_gen",
+  "boards": [
+    {
+      "id": "board-family-editorial",
+      "title": "Play, Make & Imagine",
+      "asins": [
+        "B0GGV5TZD6",
+        "B0H2LQX7BK",
+        "B0FGD7P7K9",
+        "B0G441JJWG"
+      ],
+      "refs": [
+        "work/pilot-assets/family-feud.jpg",
+        "work/pilot-assets/timetome.jpg",
+        "work/pilot-assets/jr-white-markers.jpg",
+        "work/product-set/08-barbie-clara.jpg"
+      ],
+      "labels": "Family Feud — game night; Timetome — writing books; JR.WHITE — 60 pens, 120 colors; Barbie — Clara doll",
+      "palette": "soft blush, creamy white, black typography",
+      "prompt": "Use case: ads-marketing. Create a finished 4:5 product-only editorial shopping collage for KC's eclectic Amazon finds shop. Use only the four attached product references: Family Feud Deluxe Buzzer Edition box, Timetome writing books kit, JR.WHITE acrylic markers pack, Barbie Clara doll. Preserve exact product appearance and variant colors. No humans or hands (the doll and printed box portrait are fine). Design specifically for family games and creativity: bold playful cobalt blue typography, pale butter yellow ground, coral and turquoise accents, cut-paper geometric panels, gently tilted product cutouts with crisp shadows. Four products, four clean labeled zones in an asymmetric but orderly editorial layout, plentiful space. No script fonts, brushstrokes, hearts, fashion lookbook or generic beige moodboard. Hero heading verbatim \"PLAY, MAKE & IMAGINE\" with small \"KC’s family finds\" above. Product labels verbatim: \"Family Feud • Game night\", \"Timetome • Writing books\", \"JR.WHITE • 60 pens, 120 colors\", \"Barbie • Clara doll\". No other unprovided claims or prices. Footer small \"AI concept • Product links in gallery\". Premium joyful magazine art direction; clear products, not huge boxes filling all the space. No additional products or props.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/family-feud.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/timetome.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/jr-white-markers.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/08-barbie-clara.jpg"
+      ]
+    },
+    {
+      "id": "board-home-editorial",
+      "title": "The Home Reset",
+      "asins": [
+        "B0H4R3KP4Y",
+        "B0F2238Q26",
+        "B0GYWDKK58",
+        "B0H7T2R9KN"
+      ],
+      "refs": [
+        "work/product-set/03-air-u-brush.jpg",
+        "work/product-set/04-dimj-organizers.jpg",
+        "work/product-set/05-huifany-bags.jpg",
+        "work/product-set/09-zefiro-vacuum.jpg"
+      ],
+      "labels": "AIR U+ — small floor brush; DIMJ — beige organizers; Huifany — 4-gallon bags; Zefiro — cordless vacuum",
+      "palette": "muted sage, warm ivory, dark charcoal typography",
+      "prompt": "Use case: ads-marketing. Create a finished 4:5 product-only editorial shopping board for KC's eclectic Amazon finds shop. Four attached product references, identity locked: gray/orange AIR U+ small floor brush; DIMJ beige rectangular fabric organizers, shown EMPTY; Huifany white-and-blue 200-count 4-gallon bags (NO trash bin); green/black Zefiro cordless vacuum. Use only these four product groups. Design specifically for useful home tools: refined utilitarian layout in sage green, soft gray, ivory and charcoal, clean generous sans-serif type, fine technical divider rules, architectural alignment, matte studio product cutouts, soft directional light. NO fashion script, hearts, brushstrokes, plants or gratuitous lifestyle props. Headline verbatim \"THE HOME RESET\"; small kicker \"KC’s practical picks\". Distinct clear zones with numbered concise labels: \"01 / AIR U+ floor brush\", \"02 / DIMJ organizers\", \"03 / Huifany 4-gallon bags\", \"04 / Zefiro cordless vacuum\". Represent vacuum ONCE as a complete unit; do not duplicate handheld configurations or imply extra vacuums included. Show organizers in modest neat stack, precise rectangular empty fabric forms. No cleaning-performance claims, no prices. Footer \"Four everyday finds\" and smaller \"AI concept • Product links in gallery\". Products clearly recognizable, balanced negative space, grown-up catalog styling. No humans or hands.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/03-air-u-brush.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/04-dimj-organizers.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/05-huifany-bags.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/09-zefiro-vacuum.jpg"
+      ]
+    }
+  ]
+}

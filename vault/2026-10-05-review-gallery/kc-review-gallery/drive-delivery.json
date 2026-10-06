@@ -1,0 +1,94 @@
+[
+  {
+    "path": "index.html",
+    "result": {
+      "accepted_input": "file_uri",
+      "success": true,
+      "id": "1CZ8_s4R3QOmv6dohLbVprke_lXJg9_iE",
+      "title": "KC Creative Review - index.html",
+      "file_name": "KC Creative Review - index.html",
+      "mime_type": "text/html",
+      "url": "https://drive.google.com/file/d/1CZ8_s4R3QOmv6dohLbVprke_lXJg9_iE/view?usp=drivesdk",
+      "parent_id": "1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp",
+      "structuredContent": {
+        "accepted_input": "file_uri",
+        "success": true,
+        "id": "1CZ8_s4R3QOmv6dohLbVprke_lXJg9_iE",
+        "title": "KC Creative Review - index.html",
+        "file_name": "KC Creative Review - index.html",
+        "mime_type": "text/html",
+        "url": "https://drive.google.com/file/d/1CZ8_s4R3QOmv6dohLbVprke_lXJg9_iE/view?usp=drivesdk",
+        "parent_id": "1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp"
+      }
+    }
+  },
+  {
+    "path": "kc-review-gallery/product-audit.csv",
+    "result": {
+      "accepted_input": "file_uri",
+      "success": true,
+      "id": "1sXy3JzluSoSK6X5isuzyoeDj0EYsV6ma",
+      "title": "KC Product Coverage Audit.csv",
+      "file_name": "KC Product Coverage Audit.csv",
+      "mime_type": "text/csv",
+      "url": "https://drive.google.com/file/d/1sXy3JzluSoSK6X5isuzyoeDj0EYsV6ma/view?usp=drivesdk",
+      "parent_id": "1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp",
+      "structuredContent": {
+        "accepted_input": "file_uri",
+        "success": true,
+        "id": "1sXy3JzluSoSK6X5isuzyoeDj0EYsV6ma",
+        "title": "KC Product Coverage Audit.csv",
+        "file_name": "KC Product Coverage Audit.csv",
+        "mime_type": "text/csv",
+        "url": "https://drive.google.com/file/d/1sXy3JzluSoSK6X5isuzyoeDj0EYsV6ma/view?usp=drivesdk",
+        "parent_id": "1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp"
+      }
+    }
+  },
+  {
+    "path": "KC-creative-review-notes.txt",
+    "result": {
+      "accepted_input": "file_uri",
+      "success": true,
+      "id": "14PIpkCA-IQ62QHUimgYa9yWaHknuLs8h",
+      "title": "KC Creative Review - Notes and Prompts.txt",
+      "file_name": "KC Creative Review - Notes and Prompts.txt",
+      "mime_type": "text/plain",
+      "url": "https://drive.google.com/file/d/14PIpkCA-IQ62QHUimgYa9yWaHknuLs8h/view?usp=drivesdk",
+      "parent_id": "1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp",
+      "structuredContent": {
+        "accepted_input": "file_uri",
+        "success": true,
+        "id": "14PIpkCA-IQ62QHUimgYa9yWaHknuLs8h",
+        "title": "KC Creative Review - Notes and Prompts.txt",
+        "file_name": "KC Creative Review - Notes and Prompts.txt",
+        "mime_type": "text/plain",
+        "url": "https://drive.google.com/file/d/14PIpkCA-IQ62QHUimgYa9yWaHknuLs8h/view?usp=drivesdk",
+        "parent_id": "1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp"
+      }
+    }
+  },
+  {
+    "path": "kc-review-gallery/catalog.json",
+    "result": {
+      "accepted_input": "file_uri",
+      "success": true,
+      "id": "1eG5XRgJeO7dgNjAKMaoEIy-QXp4XPcNo",
+      "title": "KC Creative Review - Asset Catalog.json",
+      "file_name": "KC Creative Review - Asset Catalog.json",
+      "mime_type": "application/json",
+      "url": "https://drive.google.com/file/d/1eG5XRgJeO7dgNjAKMaoEIy-QXp4XPcNo/view?usp=drivesdk",
+      "parent_id": "1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp",
+      "structuredContent": {
+        "accepted_input": "file_uri",
+        "success": true,
+        "id": "1eG5XRgJeO7dgNjAKMaoEIy-QXp4XPcNo",
+        "title": "KC Creative Review - Asset Catalog.json",
+        "file_name": "KC Creative Review - Asset Catalog.json",
+        "mime_type": "application/json",
+        "url": "https://drive.google.com/file/d/1eG5XRgJeO7dgNjAKMaoEIy-QXp4XPcNo/view?usp=drivesdk",
+        "parent_id": "1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp"
+      }
+    }
+  }
+]

@@ -1,0 +1,376 @@
+KC CREATIVE REVIEW — HANDOFF
+
+Open index.html in a browser, or upload it as index.html to your GitHub Pages site. All preview media is embedded; no companion asset folder is required. Original image and video download buttons point to Sofia’s Google Drive.
+
+Feedback: choices and notes are saved on the reviewing device. The bottom panel generates Markdown, supports copy and download, and opens a prefilled email draft. KC still presses Send in her own email app. Long feedback uses a short draft plus copied Markdown to avoid mailto length limits.
+
+Drive folder: https://drive.google.com/drive/folders/1lgO0h46Amn9w2iHqCW-117xAzwxaMeDp
+
+Included: 10 portraits, 7 preserved templates, 5 product-only boards, 2 silent 11-second animated-photo video previews. New boards used built-in image_gen. Original full-resolution PNG and 1080x1920 MP4 files are on Drive; embedded previews are compressed for portability.
+
+Audit: 42 unique products in three source lists. All 10 October 1 products have portraits. Thirty-two earlier products lack portraits: 10 September 29 recommendations, 18 September 29 alternatives, and 4 September 30 products removed October 1 (SHEJIZE, BOOJO, Roboseal, Lollicy). The chat mentions unspecified earlier purchases; the gallery lets KC flag them for image creation. Six products overlap September 30 and October 1.
+
+Product prices, availability and campaign status were not revalidated for this gallery. Canonical Amazon product links are not affiliate links. Sources are product research provenance, not proof of KC selecting or purchasing every item.
+
+GENERATION PROMPTS AND SOURCES
+
+kc-product-boards/prompts-and-sources.json
+{
+  "mode": "Built-in image_gen",
+  "boards": [
+    {
+      "id": "board-family",
+      "title": "Family Fun Finds",
+      "asins": [
+        "B0GGV5TZD6",
+        "B0H2LQX7BK",
+        "B0FGD7P7K9",
+        "B0G441JJWG"
+      ],
+      "refs": [
+        "work/pilot-assets/family-feud.jpg",
+        "work/pilot-assets/timetome.jpg",
+        "work/pilot-assets/jr-white-markers.jpg",
+        "work/product-set/08-barbie-clara.jpg"
+      ],
+      "labels": "Family Feud — game night; Timetome — writing books; JR.WHITE — 60 pens, 120 colors; Barbie — Clara doll",
+      "palette": "soft blush, creamy white, black typography",
+      "prompt": "Use case: ads-marketing. Create one beautiful portrait 4:5 product-only shopping moodboard for KC, with NO person, human hands, models or lifestyle portrait. The first reference is STYLE ONLY: emulate its pretty editorial cutout collage, airy cream background, oversized elegant serif heading, small handwritten annotations and curved ink arrows. Do not copy its woman, clothing, jewelry, Amazon logo or product choices. The remaining references are the ONLY actual products to include, preserving their appearance, variants, materials, colors and packaging. Board heading verbatim: \"KC’s Family Fun Finds\". Labels, one per correct product group: Family Feud — game night; Timetome — writing books; JR.WHITE — 60 pens, 120 colors; Barbie — Clara doll. Footer verbatim: \"Explore the collection\" and tiny \"AI concept • product references below\". Palette: soft blush, creamy white, black typography. Photorealistic product cutouts with subtle soft shadows arranged in a balanced, playful, spacious magazine flat-lay. Keep every product fully visible and separated; hierarchy and handwritten arrows should make reading easy. Small heart accent and restrained brushstroke behind heading as in style reference. No prices, no extra props, no claims of having tested products, no clothing. Product photo props that are not the purchased items should be omitted: no hands, no trash bin, no clothing filling organizers, no artwork samples. Preserve exact recognizable product geometry. Do not output a UI mockup; deliver finished shareable collage artwork.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Desktop/Work/KC/WhatsApp Chat - KC Casey/00000278-PHOTO-2026-10-04-18-55-24.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/family-feud.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/timetome.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/jr-white-markers.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/08-barbie-clara.jpg"
+      ]
+    },
+    {
+      "id": "board-home",
+      "title": "Everyday Home Finds",
+      "asins": [
+        "B0H4R3KP4Y",
+        "B0F2238Q26",
+        "B0GYWDKK58",
+        "B0H7T2R9KN"
+      ],
+      "refs": [
+        "work/product-set/03-air-u-brush.jpg",
+        "work/product-set/04-dimj-organizers.jpg",
+        "work/product-set/05-huifany-bags.jpg",
+        "work/product-set/09-zefiro-vacuum.jpg"
+      ],
+      "labels": "AIR U+ — small floor brush; DIMJ — beige organizers; Huifany — 4-gallon bags; Zefiro — cordless vacuum",
+      "palette": "muted sage, warm ivory, dark charcoal typography",
+      "prompt": "Use case: ads-marketing. Create one beautiful portrait 4:5 product-only shopping moodboard for KC, with NO person, human hands, models or lifestyle portrait. The first reference is STYLE ONLY: emulate its pretty editorial cutout collage, airy cream background, oversized elegant serif heading, small handwritten annotations and curved ink arrows. Do not copy its woman, clothing, jewelry, Amazon logo or product choices. The remaining references are the ONLY actual products to include, preserving their appearance, variants, materials, colors and packaging. Board heading verbatim: \"KC’s Everyday Home Finds\". Labels, one per correct product group: AIR U+ — small floor brush; DIMJ — beige organizers; Huifany — 4-gallon bags; Zefiro — cordless vacuum. Footer verbatim: \"Explore the collection\" and tiny \"AI concept • product references below\". Palette: muted sage, warm ivory, dark charcoal typography. Photorealistic product cutouts with subtle soft shadows arranged in a balanced, playful, spacious magazine flat-lay. Keep every product fully visible and separated; hierarchy and handwritten arrows should make reading easy. Small heart accent and restrained brushstroke behind heading as in style reference. No prices, no extra props, no claims of having tested products, no clothing. Product photo props that are not the purchased items should be omitted: no hands, no trash bin, no clothing filling organizers, no artwork samples. Preserve exact recognizable product geometry. Do not output a UI mockup; deliver finished shareable collage artwork.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Desktop/Work/KC/WhatsApp Chat - KC Casey/00000278-PHOTO-2026-10-04-18-55-24.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/03-air-u-brush.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/04-dimj-organizers.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/05-huifany-bags.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/09-zefiro-vacuum.jpg"
+      ]
+    },
+    {
+      "id": "board-fall",
+      "title": "Fall Weekend Finds",
+      "asins": [
+        "B0G3SWVSW5",
+        "B0F4JPWZZR",
+        "B0GGV5TZD6"
+      ],
+      "refs": [
+        "work/product-set/06-vivohome-seats.jpg",
+        "work/product-set/10-funeta-pumpkins.jpg",
+        "work/pilot-assets/family-feud.jpg"
+      ],
+      "labels": "VIVOHOME — stadium seats, 2-pack; Funeta — pumpkin favors, 30-pack; Family Feud — game night",
+      "palette": "soft terracotta, pale peach, creamy white, black typography",
+      "prompt": "Use case: ads-marketing. Create one beautiful portrait 4:5 product-only shopping moodboard for KC, with NO person, human hands, models or lifestyle portrait. The first reference is STYLE ONLY: emulate its pretty editorial cutout collage, airy cream background, oversized elegant serif heading, small handwritten annotations and curved ink arrows. Do not copy its woman, clothing, jewelry, Amazon logo or product choices. The remaining references are the ONLY actual products to include, preserving their appearance, variants, materials, colors and packaging. Board heading verbatim: \"KC’s Fall Weekend Finds\". Labels, one per correct product group: VIVOHOME — stadium seats, 2-pack; Funeta — pumpkin favors, 30-pack; Family Feud — game night. Footer verbatim: \"Explore the collection\" and tiny \"AI concept • product references below\". Palette: soft terracotta, pale peach, creamy white, black typography. Photorealistic product cutouts with subtle soft shadows arranged in a balanced, playful, spacious magazine flat-lay. Keep every product fully visible and separated; hierarchy and handwritten arrows should make reading easy. Small heart accent and restrained brushstroke behind heading as in style reference. No prices, no extra props, no claims of having tested products, no clothing. Product photo props that are not the purchased items should be omitted: no hands, no trash bin, no clothing filling organizers, no artwork samples. Preserve exact recognizable product geometry. Do not output a UI mockup; deliver finished shareable collage artwork.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Desktop/Work/KC/WhatsApp Chat - KC Casey/00000278-PHOTO-2026-10-04-18-55-24.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/06-vivohome-seats.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/10-funeta-pumpkins.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/family-feud.jpg"
+      ]
+    }
+  ]
+}
+
+
+kc-product-boards/editorial-prompts.json
+{
+  "mode": "Built-in image_gen",
+  "boards": [
+    {
+      "id": "board-family-editorial",
+      "title": "Play, Make & Imagine",
+      "asins": [
+        "B0GGV5TZD6",
+        "B0H2LQX7BK",
+        "B0FGD7P7K9",
+        "B0G441JJWG"
+      ],
+      "refs": [
+        "work/pilot-assets/family-feud.jpg",
+        "work/pilot-assets/timetome.jpg",
+        "work/pilot-assets/jr-white-markers.jpg",
+        "work/product-set/08-barbie-clara.jpg"
+      ],
+      "labels": "Family Feud — game night; Timetome — writing books; JR.WHITE — 60 pens, 120 colors; Barbie — Clara doll",
+      "palette": "soft blush, creamy white, black typography",
+      "prompt": "Use case: ads-marketing. Create a finished 4:5 product-only editorial shopping collage for KC's eclectic Amazon finds shop. Use only the four attached product references: Family Feud Deluxe Buzzer Edition box, Timetome writing books kit, JR.WHITE acrylic markers pack, Barbie Clara doll. Preserve exact product appearance and variant colors. No humans or hands (the doll and printed box portrait are fine). Design specifically for family games and creativity: bold playful cobalt blue typography, pale butter yellow ground, coral and turquoise accents, cut-paper geometric panels, gently tilted product cutouts with crisp shadows. Four products, four clean labeled zones in an asymmetric but orderly editorial layout, plentiful space. No script fonts, brushstrokes, hearts, fashion lookbook or generic beige moodboard. Hero heading verbatim \"PLAY, MAKE & IMAGINE\" with small \"KC’s family finds\" above. Product labels verbatim: \"Family Feud • Game night\", \"Timetome • Writing books\", \"JR.WHITE • 60 pens, 120 colors\", \"Barbie • Clara doll\". No other unprovided claims or prices. Footer small \"AI concept • Product links in gallery\". Premium joyful magazine art direction; clear products, not huge boxes filling all the space. No additional products or props.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/family-feud.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/timetome.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/jr-white-markers.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/08-barbie-clara.jpg"
+      ]
+    },
+    {
+      "id": "board-home-editorial",
+      "title": "The Home Reset",
+      "asins": [
+        "B0H4R3KP4Y",
+        "B0F2238Q26",
+        "B0GYWDKK58",
+        "B0H7T2R9KN"
+      ],
+      "refs": [
+        "work/product-set/03-air-u-brush.jpg",
+        "work/product-set/04-dimj-organizers.jpg",
+        "work/product-set/05-huifany-bags.jpg",
+        "work/product-set/09-zefiro-vacuum.jpg"
+      ],
+      "labels": "AIR U+ — small floor brush; DIMJ — beige organizers; Huifany — 4-gallon bags; Zefiro — cordless vacuum",
+      "palette": "muted sage, warm ivory, dark charcoal typography",
+      "prompt": "Use case: ads-marketing. Create a finished 4:5 product-only editorial shopping board for KC's eclectic Amazon finds shop. Four attached product references, identity locked: gray/orange AIR U+ small floor brush; DIMJ beige rectangular fabric organizers, shown EMPTY; Huifany white-and-blue 200-count 4-gallon bags (NO trash bin); green/black Zefiro cordless vacuum. Use only these four product groups. Design specifically for useful home tools: refined utilitarian layout in sage green, soft gray, ivory and charcoal, clean generous sans-serif type, fine technical divider rules, architectural alignment, matte studio product cutouts, soft directional light. NO fashion script, hearts, brushstrokes, plants or gratuitous lifestyle props. Headline verbatim \"THE HOME RESET\"; small kicker \"KC’s practical picks\". Distinct clear zones with numbered concise labels: \"01 / AIR U+ floor brush\", \"02 / DIMJ organizers\", \"03 / Huifany 4-gallon bags\", \"04 / Zefiro cordless vacuum\". Represent vacuum ONCE as a complete unit; do not duplicate handheld configurations or imply extra vacuums included. Show organizers in modest neat stack, precise rectangular empty fabric forms. No cleaning-performance claims, no prices. Footer \"Four everyday finds\" and smaller \"AI concept • Product links in gallery\". Products clearly recognizable, balanced negative space, grown-up catalog styling. No humans or hands.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/03-air-u-brush.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/04-dimj-organizers.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/05-huifany-bags.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/09-zefiro-vacuum.jpg"
+      ]
+    }
+  ]
+}
+
+
+kc-varied-assets/prompts-and-sources.txt
+KC VARIED PRODUCT ASSETS
+Created October 5, 2026 using the built-in image generation tool.
+
+10 distinct KC-and-product concept images. Original graphics and templates were retained, not discarded or overwritten. Existing templates use the white-shirt reference; this collection uses 10 different original video looks.
+
+No claims of actual use or product testing. No publication or messaging performed. Check identity, hands, product scale, and package details before final use; generation can alter small details. Product listing references are documented below.
+
+
+
+
+
+FAMILY FEUD
+Source: 00000169-VIDEO-2026-09-29-21-27-52.mp4; frames 5s, 32s
+Product: https://www.amazon.com/dp/B0GGV5TZD6
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Pink collared polo; hair loosely pulled back as in the original video.
+Composition and expression: Medium portrait from a low eye-level viewpoint: KC seated sideways at a dining table, torso turned three-quarters toward camera, a broad spontaneous open smile like she is inviting friends to game night. She holds the Family Feud box upright with both hands at lower chest level, box turned only slightly so front is readable, elbows relaxed. Frame from the hips up. Use the warm dining/living room in her source as setting inspiration; no other people.
+Product invariants: One exact blue Family Feud Deluxe Buzzer Edition 50 Years box. Preserve its yellow typography, printed host and red buzzer illustration. Realistic approximately 11-inch square box, not oversized. Do not open or demonstrate the game.
+
+TIMETOME WRITING BOOKS
+Source: 00000244-VIDEO-2026-10-04-18-31-31.mp4; frames 3s, 8s
+Product: https://www.amazon.com/dp/B0H2LQX7BK
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Light blue denim button-up shirt with rolled sleeves, black trousers, hair pulled back, sunglasses resting on top of head exactly as source.
+Composition and expression: Three-quarter side view at a light wood table, seated with body angled toward the right. KC looks down toward a pink-front workbook with a small relaxed closed-mouth smile, not at camera. She holds the closed workbook upright with one hand lightly supporting its bottom; the other hand rests near the remaining five books and kit box on the tabletop. Upper-body framing, slightly wider environmental shot. No writing demonstration, no child, no other person.
+Product invariants: Exact Timetome six-book set: colorful package with six black pens and two colored grips in its window; spiral workbooks with scalloped colored edges. The foremost pink alphabet cover has teal 3+ badge. One book in hand and remaining five on table (six books total), no invented extra books. Preserve book design.
+
+AIR U+ FLOOR BRUSH
+Source: 00000245-VIDEO-2026-10-04-18-31-49.mp4; frames 17s, 29s
+Product: https://www.amazon.com/dp/B0H4R3KP4Y
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Charcoal long-sleeve lounge top and matching wide-leg pants with white side stripe, straight blonde hair as source, natural body proportions.
+Composition and expression: Almost full-length portrait at natural waist-height camera viewpoint, KC standing in a bright kitchen doorway, turned about 45 degrees to the left. Weight naturally on her back leg, gently amused side smile looking past camera. She holds the long brush shaft loosely in one hand at hip height with the brush head resting stationary on the floor beside her, the other hand relaxed in her trouser pocket. Clean uncluttered pale tile floor. This is a posed product portrait, no scrubbing, no before/after or dirt.
+Product invariants: Exact gray AIR U+ four-in-one brush: narrow rectangular gray head, stiff black dual-sided bristles and silver squeegee edge, orange circular pivot and clip detail on silver shaft. Extend shaft naturally to a plausible full handle without changing head mechanism. ONE brush, no mop substitute.
+
+DIMJ DRAWER ORGANIZERS
+Source: 00000252-VIDEO-2026-10-04-18-33-11.mp4; frames 6s, 18s
+Product: https://www.amazon.com/dp/B0F2238Q26
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Cream cable-knit sweater, medium-blue jeans, straight shoulder-length blonde hair from source.
+Composition and expression: Medium waist-up portrait from slightly off-center eye level, KC standing next to a light wood dresser with body turned three-quarters away and head tilted down toward the product. A gentle natural smile. She holds ONE empty beige rectangular fabric organizer in both hands in front of her waist, tipped just enough to see inside. A neat selection of matching empty bins rests on the dresser. Natural window light, real home background, no clothes or toiletries in the bins, not demonstrating a transformation.
+Product invariants: Accurate DIMJ beige fabric organizer construction, thin straight fabric-covered walls, stitched edges, small/medium/large rectangles. Show only a few representative bins from the 20-pack, no claim all 20 are visible. Preserve fabric rather than inventing plastic baskets.
+
+HUIFANY DRAWSTRING BAGS
+Source: 00000253-VIDEO-2026-10-04-18-33-14.mp4; frames 3s, 17s
+Product: https://www.amazon.com/dp/B0GYWDKK58
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Gray/taupe-and-white horizontally striped zip hoodie and blue jeans; straight blonde hair matching footage.
+Composition and expression: Casual mid-thigh-up portrait beside a kitchen counter, body angled slightly left. KC cradles the blue-and-white package at waist level with her left forearm and lifts one small matching roll with her right hand beside shoulder height, palm and fingers naturally wrapped around roll. Small friendly grin, eyes looking at the roll, slight head tilt. Clean home background, soft daylight. Make this an informal product introduction pose, not a trash disposal demonstration.
+Product invariants: Huifany exact blue-and-white 4-gallon 200-count package, white bags with blue drawstrings, one small roll matching reference. No green trash bin, no inflated claims or invented features. Keep retail package realistically sized.
+
+VIVOHOME STADIUM SEATS
+Source: 00000267-VIDEO-2026-10-04-18-36-41.mp4; frames 3s, 9s
+Product: https://www.amazon.com/dp/B0G3SWVSW5
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Brown long-sleeve top with the real white 'GAME DAY' lettering, blue jeans, loosely wavy blonde hair matching source.
+Composition and expression: Wide three-quarter portrait outdoors on empty aluminum bleachers, photographed at seated eye height from her left side. KC sits naturally in ONE black compact stadium seat placed on the bench, blue-jean-covered legs in a relaxed normal position, white casual sneakers. She turns her head back toward camera with a warm laughing smile. One hand rests on her thigh; the other casually touches the second identical empty seat beside her. Exactly TWO seats visible, no spectators or children. Keep natural body proportions and knee placement, no elongated or aged legs. This is a posed promotional scene, not a comfort test.
+Product invariants: Exact VIVOHOME black ultra-compact stadium seats, black metal frames, black fabric back and base, white VIVOHOME lettering, hanging side storage and cup-holder. These sit on bleacher benches, not tall camping chairs. Use two identical units.
+
+JR.WHITE ACRYLIC MARKERS
+Source: 00000185-VIDEO-2026-09-29-22-35-41.mp4; frames 3s, 19s
+Product: https://www.amazon.com/dp/B0FGD7P7K9
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Forest-green long-sleeve sweatshirt with source lettering, black pants, curled blonde hair swept off forehead as in footage.
+Composition and expression: Tight waist-up portrait, KC at her dining table angled to the left with her face turned toward camera, bright playful smile with cheeks naturally raised. She holds the exact colorful marker pack against her lower torso with her left hand, and raises ONE capped purple-wrapped pen beside her cheek with her right hand, like introducing a colorful find. Warm room and softly blurred background. Distinct close camera framing. Not drawing or claiming to have tested the markers.
+Product invariants: Exact JR.WHITE parrot-design acrylic marker pack, purple wrapped dual-color pens with colorful caps arranged in three rows. 60 pens / 120 colors packaging. Raised pen should match one pen in kit. Omit sample crafts, oversized demonstration pens, rocks, easel and other reference props.
+
+BARBIE CLARA DOLL
+Source: 00000186-VIDEO-2026-09-29-22-35-45.mp4; frames 3s, 8s
+Product: https://www.amazon.com/dp/B0G441JJWG
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Burgundy/red quarter-zip hooded pullover with gold-tone zipper, black leggings, loose curled blonde hairstyle from source.
+Composition and expression: Medium close-up from KC's right side, shoulders turned three-quarter toward the left. She holds the doll gently at chest level, one hand around its lower torso and the other supporting the feet. KC looks down at the doll with a soft closed-mouth smile, natural chin angle and eyes open. Slightly warm holiday-ready home atmosphere, uncluttered background; no invented holiday props. Product and KC face both sharp, natural daylight.
+Product invariants: One exact approximately 11.5-inch Barbie in the Nutcracker Clara doll with blonde bun, turquoise head ornament, pink bodice and turquoise crisscross lacing, silver heart necklace, printed pink tutu, pink tights, turquoise ballet shoes, small pink gift accessory. Do not make doll life-size or redesign dress. No packaging invented.
+
+ZEFIRO CORDLESS VACUUM
+Source: 00000251-VIDEO-2026-10-04-18-33-07.mp4; frames 16s, 25s
+Product: https://www.amazon.com/dp/B0H7T2R9KN
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Sage-gray textured matching knit sweater and loose pants, straight blonde hair, white sneakers from original footage.
+Composition and expression: Full-length home portrait, KC standing sideways on a wood floor near a doorway, torso gently rotated toward camera. Calm confident closed-mouth smile, eyes toward camera. Her right hand lightly rests on the vacuum's upper handle, left arm relaxed at her side, vacuum upright and stationary beside her with complete floor head visible. Natural comfortable stance, a little space above and around body for later layout. No cleaning action, debris, suction effects or results.
+Product invariants: One assembled green/turquoise and black Zefiro stick vacuum, accurate transparent dust cup, round green-topped motor and turquoise shaft, black/green floor head from reference. No duplicate handheld versions, filters or accessory insets. Do not add branded elements not present.
+
+FUNETA PUMPKIN FAVORS
+Source: 00000243-VIDEO-2026-10-04-18-31-19.mp4; frames 3s, 8s
+Product: https://www.amazon.com/dp/B0F4JPWZZR
+
+Use case: identity-preserve / compositing.
+Create one photorealistic portrait 4:5 KC-and-product promotional photo asset, without graphic template, borders, collage panels, headlines, captions, buttons, watermarks or added text. Only real existing lettering on clothing and product packaging may remain. This is a private AI concept asset, not a documented product test.
+Input roles: Images 1 and 2 are ORIGINAL footage frames of the SAME adult woman KC. Use her actual facial features, natural age, skin texture, eye shape and spacing, nose, mouth and face proportions. Preserve her specific outfit, hairstyle and body from these references. These images—not a generic model—are identity authority. Image 3 is exact product appearance authority.
+Do not repeat the prior white-shirt portrait. Generate the distinct pose, camera viewpoint, gaze and expression described below, grounded in these new real references. KC must look recognizably like herself, not an idealized younger model. Preserve natural skin and fine lines. Avoid beauty-filter skin or exaggerated facial expressions.
+Only ONE adult woman, KC, in the output. Any other person, child or unrelated product present in original frames is excluded. Use a believable home environment inspired by her footage unless a different setting is explicitly specified. Do not claim actual use or performance, and do not show before/after.
+Very important: realistic hands with five digits, anatomically plausible grip and support, realistic relative product size, no fused fingers or extra limbs, correct product identity. Person and product equally important. Leave a little breathing room for later template use, but this is a full photographic scene, not a cutout or catalogue collage.
+
+KC appearance: Bright red crewneck sweater, blonde hair pulled into a casual bun, rings and small earrings from source.
+Composition and expression: Friendly close portrait from slightly above eye level, KC leaning toward the camera with a delighted natural toothy smile, head tilted slightly to the right. Hold a small orange pumpkin pop-it keychain up near her left cheek between thumb and index finger, with natural hand perspective (not giant hand). A small cluster of original bagged favors with purple header cards sits at the lower edge of the frame on a kitchen counter. Warm home setting, no child, no other person. Focus on expression and small Halloween product.
+Product invariants: Exact Funeta orange/black jack-o-lantern keychains with three circular pop bubbles along the bottom and silver bead chain. Orange pumpkin shown in hand should match the product reference. Several bagged favors can appear in foreground, all with actual purple Halloween header card designs. No candy or extra toy types.
+
+kc-pilot-prompts-and-sources.txt
+KC FAMILY FUN FINDS — FIRST DESIGN PILOT
+Created October 5, 2026
+
+Two private preview graphics, generated with the built-in image generation tool.
+A: kc-family-fun-collage-preview.png
+B: kc-family-fun-lifestyle-preview.png
+
+Both images are generated composites. A references an original frame but the generator re-rendered the face; it is not a pixel-preserved original-photo collage. B depicts an invented home setting and product arrangement. They are concept graphics, not evidence KC has used these products. Small packaging details and face likeness need final review. No publication, messaging, purchase, or campaign submission was performed. The storefront call to action is visual only, without an embedded affiliate URL.
+
+Identity references:
+Original video: 00000274-VIDEO-2026-10-04-18-46-54.mp4, frames at 2 and 17 seconds, from the supplied WhatsApp export.
+
+Product identity source:
+October 1 updated picks
+
+Product references verified against listing pages:
+Family Feud Deluxe Buzzer Edition: https://www.amazon.com/dp/B0GGV5TZD6
+Source asset: https://m.media-amazon.com/images/I/81wG9nAyamL._AC_SL1500_.jpg
+Timetome six-book writing set: https://www.amazon.com/dp/B0H2LQX7BK
+Source asset: https://m.media-amazon.com/images/I/81T-Zc63nqL._AC_SL1500_.jpg
+JR.WHITE 60 pens / 120 colors: https://www.amazon.com/dp/B0FGD7P7K9
+Source asset: https://m.media-amazon.com/images/I/81kmOqSDcVL._AC_SL1500_.jpg
+
+PROMPT A
+Use case: compositing / identity-preserve.
+Create a polished portrait 4:5 social shopping collage, a private first design preview for KC. The title is FAMILY FUN FINDS, with smaller handwritten-style KC's above. Editorial warm ivory paper background, ink dark olive/charcoal typography, very restrained dusty rose accent, airy tasteful lifestyle affiliate collage, legible clean hierarchy. Do not make this look like an ecommerce app.
+Image 1 is the EDIT TARGET photo of KC in a white blouse and taupe shorts. Preserve her actual photographed face, hairstyle, expression, skin texture, age, body proportions, jewelry, white blouse and pose, as closely as possible. Place the photograph unchanged within an attractive large straight rectangular editorial photo frame on the left of the composition. Retain the original interior background inside the photo, crop only as necessary to fit. Do not reconstruct her face or beautify her. Her face should be comfortably visible. Use the original photo as a pasted photo, not a reinterpretation. Image 2 is a supporting closer identity reference only; do not display it.
+Images 3, 4, 5 are the EXACT product asset references: Family Feud Deluxe Buzzer Edition; Timetome 6-book writing set; JR.WHITE dual-color acrylic marker 60-pen set. Arrange these three products in a clean curated layout beside the photo. Preserve supplied packaging, branding, proportions and visible product details accurately. For Family Feud use the box. For Timetome show the box and spiral book stack, not the demonstration hand. For JR.WHITE show the marker pack, omit the sample crafts surrounding it. No invented packaging or extra products, no prices.
+Text, rendered exactly and with generous spacing:
+"KC's"
+"FAMILY FUN FINDS"
+"Games, crafts & quiet-time picks"
+Product captions near their respective objects:
+"Family Feud" / "Deluxe Buzzer Edition"
+"Timetome" / "Reusable writing books"
+"JR.WHITE" / "60 pens · 120 colors"
+Tasteful footer band: "Explore my storefront →"
+Small readable footer: "DESIGN PREVIEW"
+All copy must fit without overlap. Do not imply KC has used or reviewed these products. No children, no additional people outside the existing printed packaging, no Amazon logo. Make it polished, warm and personal, not generic corporate. Return ONE finished collage only.
+
+PROMPT B
+Use case: identity-preserve / compositing.
+Create a polished portrait 4:5 social shopping lifestyle graphic, a private AI-assisted first design preview for KC.
+Image 1 is the main identity and body reference, image 2 is a closer reference of the SAME adult woman. Faithfully preserve KC's recognizable actual face: shape of face, eyes and spacing, nose, lips, smile, natural skin texture and age, blonde hair with darker roots and loose shoulder length waves. Preserve her lean natural proportions and white collared blouse. Do not make a generic influencer, change her age, give beauty-filter skin, exaggerate features or change ethnicity.
+Images 3, 4, 5 are exact product references: Family Feud Deluxe Buzzer Edition blue box, Timetome 6-book reusable writing set, JR.WHITE 60-pen/120-color marker pack. Preserve their branding, exact appearance and colors. Only show these products.
+Scene: a believable airy Pacific Northwest-style home dining nook, soft daylight, warm ivory walls and natural light wood. KC smiles naturally toward camera, shown waist-up behind a table, relaxed natural pose with hands resting separately from the products, NOT holding or demonstrating anything. Table presents the Family Feud box upright and Timetome books and JR.WHITE marker pack arranged tidily next to it. Clear realistic scale, all three visible, photo feels warm and casual, not glamorous stock imagery. Avoid other distracting objects. Accurate anatomy.
+Graphic composition: top cream margin for elegant charcoal serif headline, roomy photo below, bottom warm-ivory footer. Cohesive with an editorial shopping collage. Top text exactly:
+"KC's"
+"FAMILY FUN FINDS"
+"Games, crafts & quiet-time picks"
+Footer text exactly:
+"Explore my storefront →"
+Small but clear footer line: "AI-STYLED CONCEPT · DESIGN PREVIEW"
+No claims of personal testing, no testimonial, no performance demonstration, no children. No prices and no Amazon logo. All typography must be clean and readable, no overlaps, no extra slogans. Return ONE finished graphic only.
+
+

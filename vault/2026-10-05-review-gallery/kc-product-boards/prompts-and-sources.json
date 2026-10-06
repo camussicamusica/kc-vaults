@@ -1,0 +1,80 @@
+{
+  "mode": "Built-in image_gen",
+  "boards": [
+    {
+      "id": "board-family",
+      "title": "Family Fun Finds",
+      "asins": [
+        "B0GGV5TZD6",
+        "B0H2LQX7BK",
+        "B0FGD7P7K9",
+        "B0G441JJWG"
+      ],
+      "refs": [
+        "work/pilot-assets/family-feud.jpg",
+        "work/pilot-assets/timetome.jpg",
+        "work/pilot-assets/jr-white-markers.jpg",
+        "work/product-set/08-barbie-clara.jpg"
+      ],
+      "labels": "Family Feud — game night; Timetome — writing books; JR.WHITE — 60 pens, 120 colors; Barbie — Clara doll",
+      "palette": "soft blush, creamy white, black typography",
+      "prompt": "Use case: ads-marketing. Create one beautiful portrait 4:5 product-only shopping moodboard for KC, with NO person, human hands, models or lifestyle portrait. The first reference is STYLE ONLY: emulate its pretty editorial cutout collage, airy cream background, oversized elegant serif heading, small handwritten annotations and curved ink arrows. Do not copy its woman, clothing, jewelry, Amazon logo or product choices. The remaining references are the ONLY actual products to include, preserving their appearance, variants, materials, colors and packaging. Board heading verbatim: \"KC’s Family Fun Finds\". Labels, one per correct product group: Family Feud — game night; Timetome — writing books; JR.WHITE — 60 pens, 120 colors; Barbie — Clara doll. Footer verbatim: \"Explore the collection\" and tiny \"AI concept • product references below\". Palette: soft blush, creamy white, black typography. Photorealistic product cutouts with subtle soft shadows arranged in a balanced, playful, spacious magazine flat-lay. Keep every product fully visible and separated; hierarchy and handwritten arrows should make reading easy. Small heart accent and restrained brushstroke behind heading as in style reference. No prices, no extra props, no claims of having tested products, no clothing. Product photo props that are not the purchased items should be omitted: no hands, no trash bin, no clothing filling organizers, no artwork samples. Preserve exact recognizable product geometry. Do not output a UI mockup; deliver finished shareable collage artwork.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Desktop/Work/KC/WhatsApp Chat - KC Casey/00000278-PHOTO-2026-10-04-18-55-24.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/family-feud.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/timetome.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/jr-white-markers.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/08-barbie-clara.jpg"
+      ]
+    },
+    {
+      "id": "board-home",
+      "title": "Everyday Home Finds",
+      "asins": [
+        "B0H4R3KP4Y",
+        "B0F2238Q26",
+        "B0GYWDKK58",
+        "B0H7T2R9KN"
+      ],
+      "refs": [
+        "work/product-set/03-air-u-brush.jpg",
+        "work/product-set/04-dimj-organizers.jpg",
+        "work/product-set/05-huifany-bags.jpg",
+        "work/product-set/09-zefiro-vacuum.jpg"
+      ],
+      "labels": "AIR U+ — small floor brush; DIMJ — beige organizers; Huifany — 4-gallon bags; Zefiro — cordless vacuum",
+      "palette": "muted sage, warm ivory, dark charcoal typography",
+      "prompt": "Use case: ads-marketing. Create one beautiful portrait 4:5 product-only shopping moodboard for KC, with NO person, human hands, models or lifestyle portrait. The first reference is STYLE ONLY: emulate its pretty editorial cutout collage, airy cream background, oversized elegant serif heading, small handwritten annotations and curved ink arrows. Do not copy its woman, clothing, jewelry, Amazon logo or product choices. The remaining references are the ONLY actual products to include, preserving their appearance, variants, materials, colors and packaging. Board heading verbatim: \"KC’s Everyday Home Finds\". Labels, one per correct product group: AIR U+ — small floor brush; DIMJ — beige organizers; Huifany — 4-gallon bags; Zefiro — cordless vacuum. Footer verbatim: \"Explore the collection\" and tiny \"AI concept • product references below\". Palette: muted sage, warm ivory, dark charcoal typography. Photorealistic product cutouts with subtle soft shadows arranged in a balanced, playful, spacious magazine flat-lay. Keep every product fully visible and separated; hierarchy and handwritten arrows should make reading easy. Small heart accent and restrained brushstroke behind heading as in style reference. No prices, no extra props, no claims of having tested products, no clothing. Product photo props that are not the purchased items should be omitted: no hands, no trash bin, no clothing filling organizers, no artwork samples. Preserve exact recognizable product geometry. Do not output a UI mockup; deliver finished shareable collage artwork.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Desktop/Work/KC/WhatsApp Chat - KC Casey/00000278-PHOTO-2026-10-04-18-55-24.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/03-air-u-brush.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/04-dimj-organizers.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/05-huifany-bags.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/09-zefiro-vacuum.jpg"
+      ]
+    },
+    {
+      "id": "board-fall",
+      "title": "Fall Weekend Finds",
+      "asins": [
+        "B0G3SWVSW5",
+        "B0F4JPWZZR",
+        "B0GGV5TZD6"
+      ],
+      "refs": [
+        "work/product-set/06-vivohome-seats.jpg",
+        "work/product-set/10-funeta-pumpkins.jpg",
+        "work/pilot-assets/family-feud.jpg"
+      ],
+      "labels": "VIVOHOME — stadium seats, 2-pack; Funeta — pumpkin favors, 30-pack; Family Feud — game night",
+      "palette": "soft terracotta, pale peach, creamy white, black typography",
+      "prompt": "Use case: ads-marketing. Create one beautiful portrait 4:5 product-only shopping moodboard for KC, with NO person, human hands, models or lifestyle portrait. The first reference is STYLE ONLY: emulate its pretty editorial cutout collage, airy cream background, oversized elegant serif heading, small handwritten annotations and curved ink arrows. Do not copy its woman, clothing, jewelry, Amazon logo or product choices. The remaining references are the ONLY actual products to include, preserving their appearance, variants, materials, colors and packaging. Board heading verbatim: \"KC’s Fall Weekend Finds\". Labels, one per correct product group: VIVOHOME — stadium seats, 2-pack; Funeta — pumpkin favors, 30-pack; Family Feud — game night. Footer verbatim: \"Explore the collection\" and tiny \"AI concept • product references below\". Palette: soft terracotta, pale peach, creamy white, black typography. Photorealistic product cutouts with subtle soft shadows arranged in a balanced, playful, spacious magazine flat-lay. Keep every product fully visible and separated; hierarchy and handwritten arrows should make reading easy. Small heart accent and restrained brushstroke behind heading as in style reference. No prices, no extra props, no claims of having tested products, no clothing. Product photo props that are not the purchased items should be omitted: no hands, no trash bin, no clothing filling organizers, no artwork samples. Preserve exact recognizable product geometry. Do not output a UI mockup; deliver finished shareable collage artwork.",
+      "referenced_image_paths": [
+        "/Users/sofiarenata/Desktop/Work/KC/WhatsApp Chat - KC Casey/00000278-PHOTO-2026-10-04-18-55-24.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/06-vivohome-seats.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/product-set/10-funeta-pumpkins.jpg",
+        "/Users/sofiarenata/Documents/Codex/KC Sanders/2026-10-05/hey/work/pilot-assets/family-feud.jpg"
+      ]
+    }
+  ]
+}
